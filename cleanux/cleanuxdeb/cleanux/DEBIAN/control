@@ -1,0 +1,5 @@
+Package: cleanux
+Version: 0.1
+Maintainer: foreach
+Architecture: all
+Description: cleaning tool for linux
