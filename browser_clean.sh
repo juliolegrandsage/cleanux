@@ -1,3 +1,4 @@
+
 #!/bin/bash
 
 # Vider le cache du navigateur spécifié en argument
