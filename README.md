@@ -14,8 +14,3 @@ Cleanux is a simple GUI tool built in Python using Tkinter for cleaning temporar
 
 - Python 3.x installed
 - Tkinter library (usually included with Python)
-
-## Usage
-
-1. Clone the repository:
-
